@@ -1,0 +1,3 @@
+comment = 'Spigot algorithm for the digits of PI'
+default_version = '1.0'
+relocatable = true
